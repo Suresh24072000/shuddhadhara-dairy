@@ -201,3 +201,17 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+section {
+  position: relative !important;
+  height: auto !important;
+  min-height: auto !important;
+}
+
+.slider {
+  height: auto !important;
+}
+
+.slide {
+  position: relative !important;
+  opacity: 1 !important;
+}
