@@ -240,3 +240,7 @@ section {
   transform: translateY(-8px);
   box-shadow: 0 12px 25px rgba(0,0,0,0.15);
 }
+.btn:hover {
+  background: #fdd835;
+  transform: scale(1.05);
+}
