@@ -1,9 +1,9 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f9fff8;
-    color: #333;
+  font-family: 'Poppins', Arial, sans-serif;
+  background: #f9fff8;
+  color: #333;
 }
+
 
 header {
     background: #2e7d32;
